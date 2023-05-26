@@ -7,7 +7,6 @@
 #
 layout: home
 ---
-
 # Me, myself and I
 
 From failing to study medicine ➡️ BSc industrial engineer ➡️ MSc computer scientist.
@@ -16,9 +15,9 @@ Life can be strange, so better enjoy it.
 
 I´m sure I do by 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
 
-I currently work on open-source NLP at [✨Argilla](https://github.com/argilla-io/argilla/): the open-source data curation platform for LLMs.
-
 # Open-source ⭐️
+
+Working on open-source NLP at [✨Argilla: the open-source data curation platform for LLMs](https://github.com/argilla-io/argilla/)
 
 Some awesome open-source packages I maintain!
 

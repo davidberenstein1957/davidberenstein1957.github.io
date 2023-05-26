@@ -6,9 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  From failing to study medicine ➡️ BSc industrial engineer ➡️ MSc computer scientist.
-  Life can be strange, so better enjoy it.
-  I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
+  👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing
 
 # Build settings
 
