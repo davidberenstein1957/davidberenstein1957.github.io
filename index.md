@@ -11,3 +11,4 @@ layout: home
 From failing to study medicine ➡️ BSc industrial engineer ➡️ MSc computer scientist.
 Life can be strange, so better enjoy it.
 I´m sure I do by 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
+
