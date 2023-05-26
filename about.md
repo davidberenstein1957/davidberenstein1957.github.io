@@ -25,11 +25,11 @@ Some awesome open-source packages I maintain privately!
 - [adept-augmentations](https://github.com/argilla-io/adept-augmentations) - a Python library aimed at dissecting and augmenting NER training data
 
 
-## talks 📖
+## Talks 📖
 - NLP Healthcare Summit 2023 - [Smart Shortcuts for Bootstrapping a Healthcare NER Project](https://youtu.be/t68kC5Dk4LA)
 - Anyscal Ray Europe Meetup - [Smart shortcuts for Bootstrapping a Text Classification project](https://youtu.be/tdGvtMv8IiE)
 
 
-## volunteering 🌍
+## Volunteering 🌍
 - [Bonfari](https://bonfari.nl/) - small to medium sustainable scale projects in Gambia 🇬🇲
 - [510 red-cross](https://www.510.global/) - occasional projects to improve humanitarian aid with data
